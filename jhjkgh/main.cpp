@@ -57,5 +57,38 @@ privacy of electronic patient records. In Computer-Based Medical Systems (CBMS),
 
 
 
+
+Statistics Indonesia
+
+Statistics
+Indonesia es una agencia gubernamental que es responsable de proveer datos
+estadísticos oficiales. La información derivada de los datos se utiliza como
+base para tomar cualquier política pública nacional. Esta organización no ha
+implementado una gestión de la seguridad de la información. Los problemas que
+surgen a partir de esto son lo bien que lleva a cabo su proceso de negocio en
+el contexto de la seguridad de la información y cómo formular la mejora de la
+seguridad de la información.
+
+El objetivo de
+este estudio fue realizar la evaluación de la capacidad de gestión de la
+seguridad de la información que refleja los requisitos de la norma ISO / IEC
+27001: 2013, la referencia más adoptada para los sistemas de gestión de la
+seguridad de la información y se adoptó el modelo de proceso de evaluación de
+la norma ISO / IEC 33072: 2016. Finalmente, se determinaron los pasos para
+realizar la evaluación y se formuló un diseño para la mejora de la gestión de
+la seguridad de la información que incluía: la ruta de mejora, la lista de
+procesos prioritarios para la gestión, integración de los elementos de gestión
+de seguridad de la información en los procesos críticos del negocio y             una estructura de defensa a tres líneas
+para la organización.
+
+Rimawati, Y., & Sutikno, S. (2016, October). The
+assessment of information security management process capability using ISO/IEC
+33072: 2016 (Case study in Statistics Indonesia). In Information Technology
+Systems and Innovation (ICITSI), 2016 International Conference on (pp.
+1-6). IEEE.
+
+
+
+
 */
 
